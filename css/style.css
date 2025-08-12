@@ -1,12 +1,9 @@
 /*all-style*/
-@font-face {
-    font-family: tanha;
-    src: url(/font/Tanha.ttf);
-}
+
 
 * {
     box-sizing: border-box;
-    font-family: tanha;
+font-family: 'Tanha', sans-serif;
     direction: rtl;
     list-style: none;
     margin: 0;
